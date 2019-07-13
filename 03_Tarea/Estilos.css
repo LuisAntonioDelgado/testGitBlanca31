@@ -1,0 +1,121 @@
+.contenedor{
+    /* border: solid 1px black; */
+    width: 99%;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.cajaLinks{
+
+    /*border: solid 1px blue;*/
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content:flex-end;
+    
+} 
+
+.Cuerpo{
+    /* border: solid 1px red; */
+    width: 100%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+  
+}
+
+.link{
+
+    /* border: solid 1px green; */
+    width: 5%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.imagenCuadros{
+
+    /* border: solid 1px purple; */
+    width: 4%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+
+}
+
+.imagenLetra{
+
+    /* border: solid 1px silver; */
+    width: 4%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.cuadritos{
+width: 40px;
+height: 40px;
+}
+
+.google{
+    /* border: solid 1px purple; */
+    width: 100%;
+    height: 38%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    
+}
+
+.input{
+
+    /* border: solid 1px green; */
+    width: 100%;
+    height: 10%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.barrainput{
+
+    width: 50%;
+    height: 50%;
+    /* border: solid 1px black; */
+
+
+
+}
+
+.boton{
+
+    /* border: solid 1px green; */
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.hijo{
+    /* border: solid 1px black;  */
+    width: 25%;
+    height: 100%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+
+.button{
+
+    width: 45%;
+    height: 35px;
+    font-size: 12px;
+
+
+}

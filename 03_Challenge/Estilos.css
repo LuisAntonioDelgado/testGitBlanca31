@@ -1,0 +1,139 @@
+main{
+    border: solid 1px red;
+    width: 1260px;
+    height: 700px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Grande1{
+    border: solid 1px blue;
+    width: 600px;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Grande2{
+    border: solid 1px blue;
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.mediano1{
+   
+    border: solid 1px green;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.mediano2{
+   
+    border: solid 1px green;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.mediano3{
+   
+    border: solid 1px green;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.chico1{
+   
+    border: solid 1px black;
+    width: 20px;
+    height: 20px;
+}
+
+.chico2{
+   
+    border: solid 1px black;
+    width: 20px;
+    height: 20px;
+}
+
+.chico3{
+   
+    border: solid 1px black;
+    width: 20px;
+    height: 20px;
+}
+
+
+.mediano4{
+   
+    border: solid 1px green;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+   
+}
+
+.mediano5{
+   
+    border: solid 1px green;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.mediano6{
+   
+    border: solid 1px green;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  
+}
+
+.chico4{
+   
+    border: solid 1px black;
+    width: 20px;
+    height: 20px;
+}
+
+.chico5{
+   
+    border: solid 1px black;
+    width: 20px;
+    height: 20px;
+}
+
+.chico6{
+   
+    border: solid 1px black;
+    width: 20px;
+    height: 20px;
+}

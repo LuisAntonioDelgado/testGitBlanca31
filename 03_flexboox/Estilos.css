@@ -1,0 +1,39 @@
+.contenedor{
+
+    border: solid 1px black;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /*display flex, va mover todo lo que tenga dentro de manera regular*/
+    /*justify-content: flex-end; /*manejo en x*/
+    /*justify-content: space-between;/*maneja que las 2 figuras se vallan a las orillas*/
+    /*align-items: flex-end;/*manejo en Y*/
+    /*flex-direction: column Pone todo en columnas y se invierten los ejes*/
+    /*align-content: space-between se ocupa cuando ya utilizaste align-items*/
+} 
+
+.father{
+
+    border: solid 1px red;
+    width: 100px;
+    height: 100px;
+
+}
+
+.mother{
+
+    border: solid 1px blue;
+    width: 100px;
+    height: 100px;
+
+}
+
+.father2{
+
+    border: solid 1px red;
+    width: 100px;
+    height: 100px;
+
+}

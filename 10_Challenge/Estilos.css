@@ -1,0 +1,40 @@
+body{
+    width: 100%;
+    height: 100vh;
+    border: solid 1px green; 
+    display: flex;
+    background-image: url(http://jaimegrau.es/wp-content/uploads/2016/12/piedra-papel-tijeras-lagarto-spock-mal-juego-2.jpg);
+   
+    
+ 
+    
+ 
+    
+}
+
+.card-container{
+
+    width: 50%;
+    border: solid 1px blue; 
+}
+
+.hola{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.compu{
+
+    width: 50%;
+    height: 100%;
+    border: solid 1px red; 
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,56 @@
+/* Prueba de coneccion
+*{
+
+    background-color: green;
+}*/
+
+/* Las etiquetas por defecto ya contienen un display, llamado display block*/
+/* La etiqueta link tiene un display llamado inline*/
+/* El display block te permite ajustar el alto y ancho, pero no puedes poner una palabra alado*/
+/* El display inline NO te permite ajustar el alto y ancho,se ajusta al tamaño de tu palabra, pero puedes poner una palabra alado*/
+/*Borde hacia afuera margin*/
+/*Borde hacia adentro padding*/
+
+
+h1{
+    border: solid 1px yellow;
+    display: inline;
+    padding: 15px;
+    margin: 50px 20px 30px 0;
+}
+
+h2{
+    border: solid 1px purple;
+    width: 40%;
+    height: 200px;
+    display: inline-block;
+    margin-right: 50px;
+}
+
+p{
+    border: solid 1px green;
+    margin: 10px 40px;
+}
+
+a{
+    border: solid 1px black;
+}
+
+.seccion1{
+    border: solid 1px red;
+    width: 100px;
+    height: 200px;;
+    
+}
+
+.seccion2{
+    border: solid 1px pink;
+    width: 150px;
+    height: 300px;;
+}
+
+.seccion3{
+    border: solid 10px blue;
+    width: 570px;
+    height: 563px;;
+}
